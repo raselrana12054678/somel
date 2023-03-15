@@ -1,0 +1,26 @@
+.click-here {
+    width: 50%;
+    margin: auto;
+    padding-top: 70px;
+}
+p {
+    width: 50%;
+    background-color: brown;
+    height: 100%;
+    padding: 20px 20px;
+}
+.pragraph h2 {
+    background-color: green;
+    font-size: 16px;
+    width: 50%;
+    padding: 20px;
+}
+.pragraph h1 {
+    background-color: aqua;
+    font-size: 16px;
+    width: 50%;
+    padding: 20px;
+}
+img {
+    width: 100%;
+}
